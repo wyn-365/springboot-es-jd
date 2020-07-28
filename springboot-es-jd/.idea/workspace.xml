@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17a17bd7-6c26-4005-b2db-7c0a36ef3d6d" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/../orc-baidu/src/main/java/com/task/Koala.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orc-baidu/src/main/java/com/task/KoalaRescue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orc-baidu/src/main/java/com/task/ObservationPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orc-baidu/src/main/java/com/task/RandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orc-baidu/src/main/java/com/task/Reserve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orc-baidu/src/main/java/com/task/SafeHeaven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orc-baidu/src/main/java/com/task/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orc-baidu/src/main/java/com/wang/PictureToText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orc-baidu/src/main/java/com/wang/SplitTxt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orc-baidu/src/main/java/com/wang/SplitTxt2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orc-baidu/src/main/java/com/wang/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orc-baidu/src/main/java/com/wang/TestT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orc-baidu/src/main/resources/ACA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orc-baidu/src/main/resources/timu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orc-baidu/src/main/resources/大数据ACP试题1400.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pb-cms/src/main/resources/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pb-cms/src/main/resources/static/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pb-cms/src/main/resources/static/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pb-cms/src/main/resources/static/img/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pb-cms/src/main/resources/static/img/logo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pb-cms/src/main/resources/static/img/logo6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pb-cms/src/main/resources/static/img/logo666.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pb-cms/src/main/resources/static/libs/theme/pblog/img/QQ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pb-cms/src/main/resources/static/libs/theme/pblog/img/WX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-blogs/src/main/java/com/wang/springboot/controller/admin/CommentAdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/wang/springboot/SpringbootEsJdApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/wang/springboot/config/ElasticSearchConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/wang/springboot/controller/ContentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/wang/springboot/controller/IndexController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/wang/springboot/domain/Content.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/wang/springboot/service/ContentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/wang/springboot/utils/HtmlParseUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/jdlogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/axios.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/vue.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/wang/springboot/SpringbootEsJdApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-cems/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/client/UdpClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/client/UdpClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/client/UdpClientFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/client/UdpClientFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/client/UdpClientFrame$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/client/UdpClientFrame$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/client/UdpClientFrame$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/client/UdpClientFrame$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/client/UdpClientFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/client/UdpClientFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/client/UdpClientFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/client/UdpClientFrame$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/client/UdpClientFrame$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/client/UdpClientFrame$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/client/UdpClientFrame$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/client/UdpClientFrame$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/client/UdpClientFrame$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/client/UdpClientFrame$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/client/UdpClientFrame$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/client/UdpClientFrame$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/client/UdpClientFrame$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/client/UdpClientFrame$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/client/UdpClientFrame$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/client/UdpClientFrame$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/client/UdpClientFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/client/UdpClientFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/entity/Ini4jFileDo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/server/UdpServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/server/UdpServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/utils/Crc.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/utils/Crc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/utils/ReadIni.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/utils/ReadProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-cems/target/classes/com/wang/utils/ReadProperties.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/target/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-cems/target/classes/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/target/classes/fmCemsSrv05.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/target/classes/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-cems/target/classes/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/target/classes/sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/target/demo-cems-1.0-SNAPSHOT-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-cems/target/demo-cems-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/target/demo-cems-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-cems/target/demo-cems-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-cems/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-cems/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-cems/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-cems/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Meaven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\APP\Meaven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1fICZuxCwJ9a7Qb4HZsblRKE5X7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\APP\IDEA\workplace\springboot-es-jd\src\main\resources\templates" />
+      <recent name="D:\APP\IDEA\workplace\springboot-es-jd\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringbootEsJdApplication">
+    <configuration name="HtmlParseUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wang.springboot.utils.HtmlParseUtil" />
+      <module name="springboot-es-jd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wang.springboot.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootEsJdApplicationTests.testAddDoc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-es-jd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wang.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wang.springboot" />
+      <option name="MAIN_CLASS_NAME" value="com.wang.springboot.SpringbootEsJdApplicationTests" />
+      <option name="METHOD_NAME" value="testAddDoc" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootEsJdApplicationTests.testCreateIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-es-jd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wang.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wang.springboot" />
+      <option name="MAIN_CLASS_NAME" value="com.wang.springboot.SpringbootEsJdApplicationTests" />
+      <option name="METHOD_NAME" value="testCreateIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootEsJdApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-es-jd" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wang.springboot.SpringbootEsJdApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringbootEsJdApplicationTests.testAddDoc" />
+        <item itemvalue="JUnit.SpringbootEsJdApplicationTests.testCreateIndex" />
+        <item itemvalue="Application.HtmlParseUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17a17bd7-6c26-4005-b2db-7c0a36ef3d6d" name="Default Changelist" comment="" />
+      <created>1595896279469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595896279469</updated>
+      <workItem from="1595896282667" duration="8000" />
+      <workItem from="1595896600129" duration="78000" />
+      <workItem from="1595896710814" duration="13236000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1595909446252</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595909446252</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="0" key="CommitChangelistDialog2" timestamp="1595909880317">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="223" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1595909880317" />
+    <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1595909814720">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595909814720" />
+    <state x="531" y="254" width="303" height="292" key="Github.ShareDialog" timestamp="1595909727828">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="254" width="303" height="292" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1595909727828" />
+    <state width="1323" height="34" key="GridCell.Tab.0.bottom" timestamp="1595908230992">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="34" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595908230992" />
+    <state width="1323" height="34" key="GridCell.Tab.0.center" timestamp="1595908230992">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="34" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595908230992" />
+    <state width="1323" height="34" key="GridCell.Tab.0.left" timestamp="1595908230992">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="34" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595908230992" />
+    <state width="1323" height="34" key="GridCell.Tab.0.right" timestamp="1595908230992">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="34" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595908230992" />
+    <state width="1323" height="34" key="GridCell.Tab.1.bottom" timestamp="1595908230995">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="34" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595908230995" />
+    <state width="1323" height="34" key="GridCell.Tab.1.center" timestamp="1595908230995">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="34" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1595908230995" />
+    <state width="1323" height="34" key="GridCell.Tab.1.left" timestamp="1595908230992">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="34" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1595908230992" />
+    <state width="1323" height="34" key="GridCell.Tab.1.right" timestamp="1595908230995">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="34" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1595908230995" />
+    <state x="376" y="74" key="RollbackChangesDialog" timestamp="1595909748094">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="376" y="74" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1595909748094" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1595909910797">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595909910797" />
+    <state x="475" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595909683287">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="475" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1595909683287" />
+  </component>
+</project>
